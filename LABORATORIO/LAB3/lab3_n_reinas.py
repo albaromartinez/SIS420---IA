@@ -1,3 +1,9 @@
+############################# REPOSITORIO GIT HUP #######################
+#    https://github.com/AlbaroMartinez/SIS420---IA/tree/main/LABORATORIO/LAB3
+####################################################################
+
+
+
 # -*- coding: utf-8 -*-
 """LAB3-N_REINAS.ipynb
 
@@ -421,12 +427,7 @@ def heuristica(datos):
   aleatorio = random.choice(datos)
   return aleatorio
 
-#GRAFICA
-def graficar(x):
-  for i in range(x):
-    for j in range(x):
-      if x[j] == ''
-      fila = fila.append(j)
+
 
 import random
 
